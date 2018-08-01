@@ -307,8 +307,25 @@ public class MainClass {
         // GenerateReport.workingWithTableRowDataBandsPresentation();
         // Working With Table Row DataBands in Email Format
         // GenerateReport.workingWithTableRowDataBandsEmail();
+		//GenerateReport.usingStringTemplate();
 
-		GenerateReport.usingStringTemplate();
+		// Sets colors of chart series dynamically based upon expressions word processing document
+		//GenerateReport.dynamicChartSeriesColor();
+		// Sets colors of chart series dynamically based upon expressions Spreadsheet document
+		//GenerateReport.dynamicChartSeriesColorSpreadsheet();
+		// Sets colors of chart series dynamically based upon expressions presentation document
+		//GenerateReport.dynamicChartSeriesColorPresentation();
+		// Sets colors of chart series dynamically based upon expressions email document
+		//GenerateReport.dynamicChartSeriesColorEmail();
+
+		// Sets colors of chart series point color dynamically based upon expressions word processing document
+		//GenerateReport.dynamicChartSeriesPointColor();
+		// Sets colors of chart series point color dynamically based upon expressions spreadsheet document
+		//GenerateReport.dynamicChartSeriesPointColorSpreadsheet();
+		// Sets colors of chart series point color dynamically based upon expressions presentation document
+		//GenerateReport.dynamicChartSeriesPointColorPresentation();
+		// Sets colors of chart series point color dynamically based upon expressions email document
+		//GenerateReport.dynamicChartSeriesPointColorEmail();
 
 
 	}
